@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "cf": {
+        "request": {
+          "uri": "/test",
+          "querystring": "auth=test&foo=bar",
+          "headers": {
+            "host": [
+              {
+                "key": "Host",
+                "value": "guidingdigital.com"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
